@@ -1,4 +1,5 @@
-"# scheduler-spring-boot" 
+#spring-boot + wsdl + hibernate generate entity
+
 mvn spring-boot:run
 
 mvn hibernate3:hbm2java

@@ -7,6 +7,12 @@
     <artifactId>spring-boot-wsdl-hibernate</artifactId>
     <version>0.1.0</version>
     <packaging>jar</packaging>
+    <developers>
+        <developer>
+            <name>Vanderson Paim</name>
+            <email>dr.vanderson@hotmail.com</email>
+        </developer>
+    </developers>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
